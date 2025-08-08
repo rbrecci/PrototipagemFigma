@@ -33,8 +33,11 @@ As seguintes telas foram desenvolvidas com foco em usabilidade e design inspirad
 ## 📸 Preview
 
 <img width="440" height="956" alt="image" src="https://github.com/user-attachments/assets/a851bc66-b53a-428e-ae78-55f17894f9bf" />
+
 <img width="440" height="956" alt="image" src="https://github.com/user-attachments/assets/2114d5b3-f3ea-4899-aa1b-62de0038a94d" />
+
 <img width="440" height="956" alt="image" src="https://github.com/user-attachments/assets/9f1bc817-8e9d-4041-aa68-58d059c93fd6" />
+
 <img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/5fbc52c2-348b-4000-8490-50b91e9750c1" />
 
 
